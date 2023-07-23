@@ -1,2 +1,2 @@
 # ANPR-Manthan-2021
-Detects fast vehicle number plate 
+Detects license plates of overspeeding vehicles
